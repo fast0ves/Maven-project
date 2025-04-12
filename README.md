@@ -30,4 +30,4 @@ org.junit.jupiter: junit-jupiter-engine: 5.8.2 (с scope test)
 
 ## Developers
 
-- [by fast0ves](https://i.ibb.co/TxCrLNsm/images.png)
+- [by fast0ves](https://github.com/fast0ves)
